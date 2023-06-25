@@ -6,7 +6,7 @@ is a food delivery platform that connects customers with a wide range of local r
 ![Screenshot](https://github.com/Adedeji-Taiwo/Diner-Express/blob/main/assets/DinerExpress1.png)
 ![Screenshot](https://github.com/Adedeji-Taiwo/Diner-Express/blob/main/assets/DinerExpress2.png)
 
-- Live link: https://expo.dev/@dhegyaino/React_Native_Jobs?serviceType=classic&distributioon=expo-go
+
 
 **Note**: Expo app is required to open this app. You can download and install the Expo app from the App Store (iOS) or the Google Play Store (Android).
 
