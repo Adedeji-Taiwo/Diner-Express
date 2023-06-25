@@ -3,7 +3,8 @@
 ##  Overview
 is a food delivery platform that connects customers with a wide range of local restaurants, allowing them to order food for delivery to their desired location.
 
-![Screenshot](https://github.com/Adedeji-Taiwo/Jobber/blob/main/assets/images/splash.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Diner-Express/blob/main/assets/DinerExpress1.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Diner-Express/blob/main/assets/DinerExpress2.png)
 
 - Live link: https://expo.dev/@dhegyaino/React_Native_Jobs?serviceType=classic&distributioon=expo-go
 
